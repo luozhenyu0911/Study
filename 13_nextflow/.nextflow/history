@@ -1,0 +1,2 @@
+2024-03-13 16:32:28	2.6s	chaotic_noether	OK	c3b603173cd3e79653eaa178297c5497	6a12566e-0c36-4d65-bafb-1dfa736b15c4	nextflow run tutorial.nf --str 'Bonjour le monde'
+2024-03-13 16:33:30	2.9s	distraught_kilby	OK	c3b603173cd3e79653eaa178297c5497	129e691d-977c-4b3d-9716-fc3526cb0669	nextflow run tutorial.nf
